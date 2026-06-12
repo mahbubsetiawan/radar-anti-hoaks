@@ -6,6 +6,7 @@ Alat belajar interaktif pendamping buku **Radar Anti Hoaks** karya Dr. Mahbub Se
 - Daftar 20 sesat pikir (*logical fallacy*) lengkap dengan penjelasan dan contoh
 - Peta hubungan antar fallacy secara interaktif
 - Simulasi percakapan — pilih respons terbaik dari skenario nyata
+- Kuis singkat untuk mengukur ketajaman logika Anda
 
 ## Cara Menggunakan
 Buka langsung di browser: [mahbubsetiawan.github.io/radar-anti-hoaks](https://mahbubsetiawan.github.io/radar-anti-hoaks)
